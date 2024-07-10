@@ -1,0 +1,3 @@
+/Users/franzi/Workspace/HDA MAC/KMI/GitlabRepos/OOAD-24SS-Mo1y-3-Dudichum_Vossen/UML/cmake-build-debug/CMakeFiles/Observer.dir
+/Users/franzi/Workspace/HDA MAC/KMI/GitlabRepos/OOAD-24SS-Mo1y-3-Dudichum_Vossen/UML/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/franzi/Workspace/HDA MAC/KMI/GitlabRepos/OOAD-24SS-Mo1y-3-Dudichum_Vossen/UML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
